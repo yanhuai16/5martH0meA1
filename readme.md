@@ -1,0 +1,1 @@
+Description: SmartHomeAI is at the forefront of home automation, providing a centralized system to control lighting, climate, security, and entertainment devices. Its AI algorithms learn from your habits to create the perfect ambiance and enhance energy efficiency.
